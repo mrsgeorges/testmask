@@ -1,0 +1,8 @@
+.maskedslide {
+  width: 966px;
+  height: 620px;
+  background-color: red;
+  -webkit-mask-image: url(gabaritslide.svg);
+  mask-image: url(gabaritslide.svg);
+}
+
